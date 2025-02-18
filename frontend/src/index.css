@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #F7F7F7;
+  --color-secondary: #3D3D3D;
+  --color-accent-purple: #A287F4;
+  --color-accent-dark-purple: #6A42C2;
+  --color-accent-green: #219897;
+  --font-display: "Space Grotesk", "serif";
+}
+
+.max-container {
+  max-width: 1400px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1rem 1.25rem;
+}
+
+.rdrDefinedRangesWrapper {
+  display: none !important;
+}
+
+.rdrMonth {
+  background-color: #fafafa !important;
+}
+
+.leaflet-container {
+  height: 500px;
+  width: 100%;
+  border-radius: 1rem;
+}
