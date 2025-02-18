@@ -2,8 +2,10 @@ Booking App
 ----------------
 Project Overview
 ----------------
+
 A full-stack booking application built using React and ASP.NET Core. 
 The goal of this project was to implement essential booking features, such as place sharing and reservations.
+
 Tech Stack
 ----------------
 - Frontend: React + TailwindCSS (responsive custom UI)
